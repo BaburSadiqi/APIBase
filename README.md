@@ -11,8 +11,16 @@ This project is a basic template for a FastAPI backend application using SQLAlch
 
 ##  Getting Started
 
-### 1. Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/fastapi-postgresql-starter.git
 cd fastapi-postgresql-starter
+
+
+## Requirements
+Python 3.8+
+PostgreSQL
+FastAPI
+SQLAlchemy
+Uvicorn
